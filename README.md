@@ -14,6 +14,9 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 1. Conduct data analysis.
 2. Looking at the dataset and brainstorming the questions we could answer using it.
 3. Use Pandas and Numpy to answer questions that most interests us.
-***
+
+****
+
+** Data Analysis for Titanisc Dataset.ipynb ** --> Jupyter Notebook showing all the analysis done with detailed reporting!
 
 
